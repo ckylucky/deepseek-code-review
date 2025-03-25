@@ -110,7 +110,7 @@
                 <archive>
                     <manifest>
                         <addDefaultImplementationEntries>true</addDefaultImplementationEntries>
-                        <mainClass>com.cky.sdk.OpenAiCodeReview</mainClass>
+                        <mainClass>com.cky.sdk.DeepseekCodeReview</mainClass>
                     </manifest>
                 </archive>
             </configuration>
