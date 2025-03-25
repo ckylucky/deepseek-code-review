@@ -12,6 +12,7 @@
     <artifactId>deepseek-code-review-sdk</artifactId>
     <version>1.0</version>
     <groupId>com.cky</groupId>
+    <packaging>jar</packaging>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
